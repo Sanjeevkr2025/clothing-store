@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StyleZone - Online Clothing Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">👕 StyleZone</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Men</a>
+      <a href="#">Women</a>
+      <a href="#">Kids</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>New Winter Collection 2025</h1>
+    <p>Trendy. Affordable. Comfortable.</p>
+    <button>Shop Now</button>
+  </section>
+
+  <!-- Products Section -->
+  <section class="products">
+    <h2>Featured Products</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1541099649105-f69ad21f3246" alt="T-shirt">
+        <h3>Men's T-shirt</h3>
+        <p>₹499</p>
+        <button>Add to Cart</button>
+      </div>
+
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1542060748-10c28b62716b" alt="Jeans">
+        <h3>Blue Denim Jeans</h3>
+        <p>₹899</p>
+        <button>Add to Cart</button>
+      </div>
+
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab" alt="Dress">
+        <h3>Floral Dress</h3>
+        <p>₹1099</p>
+        <button>Add to Cart</button>
+      </div>
+
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1596755094514-f87e3f0c7b33" alt="Jacket">
+        <h3>Winter Jacket</h3>
+        <p>₹1499</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 StyleZone. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
